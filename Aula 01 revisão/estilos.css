@@ -1,0 +1,33 @@
+/* Esse é o Css do Index*/
+
+.bodyindex{background-color: black;}
+.pindex{color: white;}
+.divexercicios{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Esse é o Css do Exemplo 2*/
+
+.exemplo2main{background-color: red;}
+
+main , article , header, section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.listaalunos{
+    color: black;
+    background-color: aquamarine;
+}
+
+#entrada{
+    font-size: larger;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
