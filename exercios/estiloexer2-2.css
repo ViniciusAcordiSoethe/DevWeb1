@@ -1,0 +1,29 @@
+.partedecimadatable{
+    background-color: #78b200;
+    box-sizing: border-box;
+}
+
+.divdatabela{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.linhaspar{
+    background-color: beige;
+}
+
+.partedecimadatable td{
+    width: 70%;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.nomecidade{
+    color: #0D5188;
+}
+
+.conteudotable{
+    text-align: center;
+}
