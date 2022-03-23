@@ -1,0 +1,18 @@
+.logo{
+    width: 250px;
+    height: 100px;
+    left: auto;
+}
+.conteiner{
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-between;
+}
+.conteiner li{
+    display: inline;
+    
+}
+.conteiner ul{
+    margin: 20px;
+    
+}
