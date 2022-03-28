@@ -39,6 +39,7 @@
     justify-content: space-around;
     border: 1px solid green;
     padding: 30px;
+    margin-bottom: 300px;
 }
 .NavList ul li{
     padding: 10px;
@@ -49,10 +50,10 @@
     background-color: gray;
 }
 .conteinerprinc{
-    border: 1px solid green;
+    border: 1px solid rgb(0, 2, 128);
     margin: 20px;
     width: 20%;
-    background-color: blueviolet;
+    
     border-radius: 5px;
 }
 .principal{
@@ -60,6 +61,7 @@
     padding: 10px;
     width: 85%;
     flex-wrap: wrap;
+    background-color: rgba(106, 174, 252, 0.507);
 }
 .footer{
     justify-content: center;
